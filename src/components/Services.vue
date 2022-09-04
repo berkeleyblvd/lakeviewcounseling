@@ -26,7 +26,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">OCD</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">You can manage phone, email and chat conversations all from a single mailbox.</dd>
         </div>
 
         <div class="relative">
@@ -37,7 +36,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">Social Anxiety</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">You can manage phone, email and chat conversations all from a single mailbox.</dd>
         </div>
 
         <div class="relative">
@@ -48,7 +46,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">General Anxiety</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">You can manage phone, email and chat conversations all from a single mailbox.</dd>
         </div>
 
         <div class="relative">
@@ -59,7 +56,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">Trauma</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">You can manage phone, email and chat conversations all from a single mailbox.</dd>
         </div>
 
         <div class="relative">
@@ -70,7 +66,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">Past/Present Abuse</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">Find what you need with advanced filters, bulk actions, and quick views.</dd>
         </div>
 
         <div class="relative">
@@ -81,7 +76,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">Depression</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">Find what you need with advanced filters, bulk actions, and quick views.</dd>
         </div>
 
         <div class="relative">
@@ -92,7 +86,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">Grief and Loss</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">Find what you need with advanced filters, bulk actions, and quick views.</dd>
         </div>
 
         <div class="relative">
@@ -103,7 +96,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">Life Transitions</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">Find what you need with advanced filters, bulk actions, and quick views.</dd>
         </div>
 
         <div class="relative">
@@ -114,7 +106,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">Coping with Parenthood</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">Find what you need with advanced filters, bulk actions, and quick views.</dd>
         </div>
 
         <div class="relative">
@@ -125,7 +116,6 @@
             </svg>
             <p class="ml-9 text-lg leading-6 font-medium text-gray-900">Stress Management</p>
           </dt>
-          <dd class="mt-2 ml-9 text-base text-gray-500">Find what you need with advanced filters, bulk actions, and quick views.</dd>
         </div>
 
       </dl>

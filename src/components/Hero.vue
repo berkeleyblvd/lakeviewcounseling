@@ -13,11 +13,14 @@
     <div class="absolute inset-0 w-full h-full bg-black bg-opacity-25"></div>
 
     <div class="flex max-w-6xl mx-auto">
-        <div class="container relative flex flex-col w-1/2 px-10 pb-1 pr-12 text-2xl text-white">
-            <h2 class="relative z-20 text-5xl font-extrabold leading-tight text-white">Welcome to<br>Lakeview Counseling
+        <div class="container relative flex flex-col w-3/4 px-10 pb-1 pr-12 text-2xl text-white">
+            <h2 class="relative z-20 text-7xl font-extrabold leading-tight text-white">Welcome to<br>Lakeview Counseling
             </h2>
-            <p class="relative z-20 block mt-4 text-xl">Located in Witefish Bay, WI, I started as a private practice to provide
-            a warm welcoming, and non-judgemental space that allows one to quickly feel comfortable and safe to process and discuss difficult
+            <p class="relative z-20 block mt-4 text-xl">Located in Whitefish Bay, WI.<br>
+             I
+            started Lakeview Counseling to provide
+            a warm, welcoming, and non-judgemental space that allows one to quickly
+            feel comfortable and safe to process and discuss difficult
             topics.</p>
             <div class="flex mt-4">
                 <a href="#"
