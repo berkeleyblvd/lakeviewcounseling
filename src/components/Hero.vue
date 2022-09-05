@@ -23,9 +23,9 @@
             feel comfortable and safe to process and discuss difficult
             topics.</p>
             <div class="flex mt-4">
-                <a href="#"
-                    class="flex items-center self-start justify-center px-5 py-3 mt-5 ml-5 text-base font-medium leading-tight text-indigo-500 transition duration-150 ease-in-out bg-gray-200 border-transparent rounded-lg shadow hover:bg-white focus:outline-none focus:border-gray-100 focus:shadow-outline-gray md:py-4 md:text-lg md:px-8">
-                    Meet Me</a>
+              <a href="mailto:jackie@lakeviewcounselingllc.com"
+                class="flex items-center self-start justify-center px-5 py-3 mt-5 ml-5 text-base font-medium leading-tight text-indigo-500 transition duration-150 ease-in-out bg-gray-200 border-transparent rounded-lg shadow hover:bg-white focus:outline-none focus:border-gray-100 focus:shadow-outline-gray md:py-4 md:text-lg md:px-8">
+                Contact Me</a>
             </div>
         </div>
     </div>

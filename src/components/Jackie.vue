@@ -45,7 +45,7 @@
             to quickly feel comfortable and safe so you can process and discuss difficult topics.</p><br>
             <p class="text-lg text-gray-500">My goal is to help you explore, process, and help resolve the obstacles life my present. I will help you utilize your strengths
             to find hope when feeling helpless and gain control when feeling lost and out of control.</p><br>
-            <p class="text-lg text-gray-500">On a more personal note, I am also a mom of 3 kids and an adorable golden retriever, Winnie. When I do have free time, I enjoy working out and just being outside (my stress relievers, because parenting can be hard :) )</p>
+            <p class="text-lg text-gray-500">On a more personal note, I am also a mom of 3 kids and an adorable golden retriever, Winnie. When I do have free time, I enjoy working out and just being outside (my stress relievers, because parenting can be hard 🙂)</p>
           </div>
         </div>
       </div>
