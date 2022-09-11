@@ -5,6 +5,7 @@
     <Services></Services>
     <Treatment></Treatment>
     <Pricing></Pricing>
+    <Contact></Contact>
     <FAQ></FAQ>
     <Footer></Footer>
   </div>
@@ -20,6 +21,7 @@ import Footer from '@/components/Footer.vue'
 import FAQ from '@/components/FAQ.vue'
 import Pricing from '@/components/Pricing.vue'
 import Navbar from '@/components/Navbar.vue'
+import Contact from '@/components/Contact.vue'
 
 export default {
   name: 'Home',
@@ -31,7 +33,8 @@ export default {
     Treatment,
     FAQ,
     Pricing,
-    Footer
+    Footer,
+    Contact
   }
 }
 </script>
