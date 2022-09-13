@@ -34,9 +34,9 @@
             </div>
             <div class="ml-3 text-base text-gray-500">
               <p>+1 (555) 123 4567</p>
-              <p class="mt-1">Regular  Hours: Tuesday & Thursday 10am to 4pm</p>
-              <p class="mt-1">Evening Hours: Tuesday & Thursday 5pm to 8pm</p>
-              <p class="mt-1">Additional availability upon request</p>
+              <p class="mt-1">Hours: Tuesday 11am to 7pm & Thursday 9am to 2pm</p>
+
+              <p class="mt-1">Additional availability for sessions upon request if there is a conflict with hours</p>
             </div>
           </div>
           <div class="mt-6 flex">
