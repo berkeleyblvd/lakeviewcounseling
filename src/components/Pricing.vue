@@ -81,13 +81,14 @@
           <div class="py-8 px-6 text-left bg-gray-50 lg:flex-shrink-0 lg:flex lg:flex-col lg:justify-left lg:p-12">
 
             <div class="mt-4 flex items-left justify-left text-5xl tracking-tight font-bold text-gray-900">
-              <span> $135 </span>
-              <span class="ml-3 text-xl font-medium text-gray-500 tracking-normal"> initial assessment </span>
+
+              <span class="ml-3 text-xl font-medium text-gray-500 tracking-normal"> $135 initial assessment </span>
             </div>
             <div class="mt-4 flex items-left justify-left text-5xl tracking-tight font-bold text-gray-900">
               <span> $120 </span>
               <span class="ml-3 text-xl font-medium text-gray-500 tracking-normal"> per session </span>
             </div>
+            <br>
             <div class="mt-6">
               <div class="rounded-md shadow">
                 <a href="mailto:jackie@lakeviewcounselingllc.com" class="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900"> Contact Me </a>
