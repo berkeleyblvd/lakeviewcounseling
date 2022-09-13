@@ -81,7 +81,7 @@
               </svg>
             </div>
             <div class="ml-3 text-base text-gray-500">
-              <p>+1 (555) 123 4567</p>
+              <p>+1 (414) 208-4711</p>
               <p class="mt-1">Mon-Fri 8am to 6pm PST</p>
             </div>
           </div>
