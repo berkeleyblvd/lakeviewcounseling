@@ -47,7 +47,7 @@
               </svg>
             </div>
             <div class="ml-3 text-base text-gray-500">
-              <p>jackie@lakeviewcounselingllc.com</p>
+              <p>jackiewichert@lakeviewcounselingllc.com</p>
             </div>
           </div>
           <div class="mt-6 flex">
