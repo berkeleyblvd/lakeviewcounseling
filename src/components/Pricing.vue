@@ -1,7 +1,7 @@
 <script>
   export default{
     components: {
-      name: "footer"
+      name: "pricing"
     }
   };
 </script>

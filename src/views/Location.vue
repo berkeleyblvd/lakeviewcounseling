@@ -1,19 +1,19 @@
 <template>
-  <div class="insurance">
-    <Insurance></Insurance>
+  <div class="location">
+    <Location></Location>
     <Footer></Footer>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import Insurance from '@/components/Insurance.vue'
+import Location from '@/components/Location.vue'
 import Footer from '@/components/Footer.vue'
 
 export default {
   name: 'home',
   components: {
-    Insurance,
+    Location,
     Footer
   }
 }
