@@ -91,7 +91,7 @@
             <br>
             <div class="mt-6">
               <div class="rounded-md shadow">
-                <a href="mailto:jackie@lakeviewcounselingllc.com" class="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900"> Contact Me </a>
+                <a href="mailto:jackiewichert@lakeviewcounselingllc.com" class="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900"> Contact Me </a>
               </div>
             </div>
           </div>
