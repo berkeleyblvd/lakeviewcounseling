@@ -37,13 +37,13 @@
         </div>
         <div class="mt-8 lg:mt-0">
           <div class="text-base max-w-prose mx-auto lg:max-w-none">
-            <p class="text-lg text-gray-500">I am a Licensed Clinical Psychotherapist and have been practicing in the Greater Milwaukee area since 2006. I have extensive experience
-            working in psychiatric treatment hospitals and outpatient mental health clinics. I work with children (10 and older), adolescents,
+            <p class="text-lg text-gray-500">I am a Licensed Clinical Psychotherapist and have been practicing in the Greater Milwaukee area since 2006. My education includes an undergraduate degree in Psychology from UW-La Crosse and a masters degress in Clinical Social Work from UW-Milwaukee.  I have extensive experience
+            working in psychiatric treatment hospitals and outpatient mental health clinics. I work with children (8 and older), adolescents,
             and adults. My specialities include treatment of anxiety disorders, depression, self-esteem, trauma, and navigating life stressors, especially parental stress.</p><br>
             <p class="text-lg text-gray-500">My approach to therapy is one of authenticity and realness. I believe that for inner growth and wellness to be achieved, you need
             to trust and feel comfortable with your therapist. Therefore, I provide a warm, welcoming, and non-judgemental space that allows you
             to quickly feel comfortable and safe so you can process and discuss difficult topics.</p><br>
-            <p class="text-lg text-gray-500">My goal is to help you explore, process, and help resolve the obstacles life my present. I will help you utilize your strengths
+            <p class="text-lg text-gray-500">My goal is to help you explore, process, and help resolve the obstacles life may present. I will help you utilize your strengths
             to find hope when feeling helpless and gain control when feeling lost and out of control.</p><br>
             <p class="text-lg text-gray-500">On a more personal note, I am a mom of 3 kids and an adorable golden retriever, Winnie. In my free time I enjoy working out and just being outside (my stress relievers, because parenting can be hard 🙂)</p>
           </div>
