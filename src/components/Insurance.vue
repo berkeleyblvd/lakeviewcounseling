@@ -21,7 +21,7 @@
 provider for insurance plans</p><br>
       <p class="mx-auto mt-5 max-w-xl text-xl text-gray-500">
         There was a lot of thought that went into making this decision.
-        It is my desire to protect your confidentiality so your diagnosis does not remain a permanent part of your medical records. Insurance
+        It is my desire to protect your confidentiality so your diagnosis does not remain a permanent part of your medical records.
         Insurance companies can also require records reviews and obtain my private session notes and given the sensitive topics discussed
         it is my desire to protect your confidentiality.
       </p>
