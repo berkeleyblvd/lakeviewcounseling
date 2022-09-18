@@ -30,7 +30,7 @@
           <div class="relative text-base mx-auto max-w-prose lg:max-w-none">
             <figure>
               <div class="aspect-w-12 aspect-h-5 lg:aspect-none">
-                <img class="rounded-lg shadow-lg object-cover object-center" src="https://i.ibb.co/Y0PcG5J/240401630-10165801793100441-5799943683580731262-n.jpg" alt="Jackie Wichert" width="1184" height="1376">
+                <img class="rounded-lg shadow-lg object-cover object-center" src="https://i.postimg.cc/85SzkjN2/jackie-1.png" alt="Jackie Wichert" width="1184" height="1376">
               </div>
             </figure>
           </div>
@@ -45,7 +45,7 @@
             to quickly feel comfortable and safe so you can process and discuss difficult topics.</p><br>
             <p class="text-lg text-gray-500">My goal is to help you explore, process, and help resolve the obstacles life may present. I will help you utilize your strengths
             to find hope when feeling helpless and gain control when feeling lost and out of control.</p><br>
-            <p class="text-lg text-gray-500">On a more personal note, I am a mom of 3 kids and an adorable golden retriever, Winnie. In my free time I enjoy working out and just being outside (my stress relievers, because parenting can be hard 🙂)</p>
+            <p class="text-lg text-gray-500">On a more personal note, I am married, and a mom of 3 kids and an adorable golden retriever, Winnie. In my free time I enjoy working out and just being outside (my stress relievers, because parenting can be hard 🙂)</p>
           </div>
         </div>
       </div>
