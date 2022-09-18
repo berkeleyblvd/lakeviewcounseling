@@ -17,7 +17,7 @@
       </p>
       <br>
       <br>
-      <p class="mt-1 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl lg:text-6xl">Office Location</p><br>
+      <p class="mt-1 text-4xl font-bold tracking-tight text-indigo-600 sm:text-5xl lg:text-6xl">316 E. Silver Spring Dr. Suite 231</p><br>
 
     </div>
   </div>
@@ -25,7 +25,7 @@
 <div class="relative bg-white">
   <div class="lg:absolute lg:inset-0">
     <div class="lg:absolute lg:inset-y-0 lg:left-0 lg:w-1/2">
-      <img class="h-56 w-full object-cover lg:absolute lg:h-full" src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80" alt="">
+      <img class="h-56 w-full object-cover lg:absolute lg:h-full" src="https://i.postimg.cc/HkjwbWFc/Map.png" alt="">
     </div>
   </div>
   <div class="relative px-4 pt-12 pb-16 sm:px-6 sm:pt-16 lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:px-8">

@@ -23,8 +23,9 @@
       <div class="px-5 py-2">
         <router-link to="/location" class="text-base text-gray-400 hover:text-gray-200">Parking & Directions</router-link>
       </div>
+      <br>
     </nav>
-    <p class="mt-8 text-center text-base text-gray-400">&copy; 2022 Lakeview Counseling, LLC., Inc. All rights reserved. Made in Milwaukee with ❤️</p>
+    <p class="mt-8 text-center text-base text-gray-400">&copy; 2022 Lakeview Counseling, LLC. All rights reserved. Made in Milwaukee with ❤️</p>
   </div>
 </footer>
 

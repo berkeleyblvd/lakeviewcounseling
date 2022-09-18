@@ -12,9 +12,11 @@
     style="background-image:url('https://images.unsplash.com/photo-1476673160081-cf065607f449?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2944&q=80')">
     <div class="absolute inset-0 w-full h-full bg-black bg-opacity-25"></div>
 
+
     <div class="flex max-w-6xl mx-auto">
         <div class="container relative flex flex-col w-3/4 px-10 pb-1 pr-12 text-2xl text-white">
-            <h2 class="relative z-20 text-7xl font-extrabold leading-tight text-white">Welcome to<br>Lakeview Counseling
+            <img class="object-cover object-center pt-5 pb-10" src="https://i.postimg.cc/7LyCsxfZ/LVC-logo-color.png" alt="Jackie Wichert" width="100" height="205">
+            <h2 class="relative z-20  text-7xl font-extrabold leading-tight text-white">Welcome to<br>Lakeview Counseling
             </h2>
             <p class="relative z-20 block mt-4 text-xl">Located in Whitefish Bay, WI.<br>
              I
