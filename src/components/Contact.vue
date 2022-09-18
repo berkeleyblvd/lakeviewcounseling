@@ -11,7 +11,7 @@
 <div class="relative bg-white">
   <div class="lg:absolute lg:inset-0">
     <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-      <img class="h-56 w-full object-cover lg:absolute lg:h-full" src="https://i.postimg.cc/HkjwbWFc/Map.png" alt="">
+      <img class="h-56 w-full object-cover lg:absolute lg:h-full" src="https://i.postimg.cc/1XtGM94j/Map.png" alt="">
     </div>
   </div>
   <!-- This example requires Tailwind CSS v2.0+ -->
