@@ -34,7 +34,7 @@
             </div>
             <div class="ml-3 text-base text-gray-500">
               <p>+1 (414) 208-4711</p>
-              <p class="mt-1">Hours: Tuesday 11am to 7pm & Thursday 9am to 2pm</p>
+              <p class="mt-1">Hours: Tuesday 10am to pm & Thursday 9am to 2pm</p>
 
               <p class="mt-1">Additional availability for sessions upon request if there is a conflict with hours</p>
             </div>
@@ -57,13 +57,14 @@
                 <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
                 <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
               </svg>
-
             </div>
             <div class="ml-3 text-base text-gray-500">
               <p>316 E. Silver Spring Drive</p>
               <p>Suite 231</p>
               <p>Whitefish Bay, WI 53217</p>
+              <p><router-link to="/insurance" class="font-medium text-gray-500 underline"> Parking & Directions </router-link></p>
             </div>
+
           </div>
         </div>
       </div>

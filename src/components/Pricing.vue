@@ -82,11 +82,10 @@
 
             <div class="mt-4 flex items-left justify-left text-5xl tracking-tight font-bold text-gray-900">
 
-              <span class="ml-3 text-xl font-medium text-gray-500 tracking-normal"> $135 initial assessment </span>
+              <span class="ml-3 text-2xl font-medium text-gray-500 tracking-normal"> $135 initial assessment </span>
             </div>
             <div class="mt-4 flex items-left justify-left text-5xl tracking-tight font-bold text-gray-900">
-              <span> $120 </span>
-              <span class="ml-3 text-xl font-medium text-gray-500 tracking-normal"> per session </span>
+              <span class="ml-3 text-2xl font-medium text-gray-500 tracking-normal"> $120 per session </span>
             </div>
             <br>
             <div class="mt-6">

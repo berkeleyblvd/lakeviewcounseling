@@ -22,7 +22,7 @@
       <div class="mx-auto max-w-prose text-base lg:ml-auto lg:mr-0 lg:max-w-lg">
         <h2 class="font-semibold leading-6 text-indigo-600">316 E. Silver Spring Dr. Suite 231</h2>
         <h3 class="mt-2 text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Whitefish Bay, WI</h3>
-        <p class="mt-8 text-lg text-gray-500">From 10 Hour Parking Structure Or 2 Hour Surface Parking</p>
+
         <div class="prose prose-indigo mt-5 text-gray-500">
           <p>Turn North onto Santa Monica Blvd. from Silver Spring Dr. and turn right into alley just past
           Starbucks. There is a 2 Hour Surface Parking Lot and a 10 Hour Parking Structure. There is a main

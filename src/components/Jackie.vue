@@ -37,7 +37,7 @@
         </div>
         <div class="mt-8 lg:mt-0">
           <div class="text-base max-w-prose mx-auto lg:max-w-none">
-            <p class="text-lg text-gray-500">I am a Licensed Clinical Psychotherapist and have been practicing in the Greater Milwaukee area since 2006. My education includes an undergraduate degree in Psychology from UW-La Crosse and a masters degress in Clinical Social Work from UW-Milwaukee.  I have extensive experience
+            <p class="text-lg text-gray-500">I am a Licensed Clinical Psychotherapist and have been practicing in the Greater Milwaukee area since 2006. My education includes an undergraduate degree in Psychology from UW-La Crosse and a masters degree in Clinical Social Work from UW-Milwaukee.  I have extensive experience
             working in psychiatric treatment hospitals and outpatient mental health clinics. I work with children (8 and older), adolescents,
             and adults. My specialities include treatment of anxiety disorders, depression, self-esteem, trauma, and navigating life stressors, especially parental stress.</p><br>
             <p class="text-lg text-gray-500">My approach to therapy is one of authenticity and realness. I believe that for inner growth and wellness to be achieved, you need
