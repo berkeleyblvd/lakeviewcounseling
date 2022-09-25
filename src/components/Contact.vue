@@ -34,7 +34,7 @@
             </div>
             <div class="ml-3 text-base text-gray-500">
               <p>+1 (414) 208-4711</p>
-              <p class="mt-1">Hours: Tuesday 10am to pm & Thursday 9am to 2pm</p>
+              <p class="mt-1">Hours: Tuesday 10am to 7pm & Thursday 9am to 2pm</p>
 
               <p class="mt-1">Additional availability for sessions upon request if there is a conflict with hours</p>
             </div>
