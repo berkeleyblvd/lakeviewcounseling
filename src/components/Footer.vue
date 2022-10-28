@@ -25,7 +25,7 @@
       </div>
       <br>
     </nav>
-    <p class="mt-8 text-center text-base text-gray-400">&copy; 2022 Lakeview Counseling, LLC. All rights reserved. Made in Milwaukee with ❤️</p>
+    <p class="mt-8 text-center text-base text-gray-400">&copy; 2022 Lakeview Counseling, LLC. All rights reserved. Made in Whitefish Bay, WI with ❤️</p>
   </div>
 </footer>
 
