@@ -24,16 +24,16 @@
         <h3 class="mt-2 text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Whitefish Bay, WI</h3>
 
         <div class="prose prose-indigo mt-5 text-gray-500">
-          <p>Turn North onto Santa Monica Blvd. from Silver Spring Dr. and turn right into alley just past
-          Starbucks. There is a 2 Hour Surface Parking Lot and a 10 Hour Parking Structure. There is a main
-          entrance door on the East side of the surface parking lot marked with a large Fox Bay Building sign
+          <p>Turn North onto Santa Monica Blvd. from Silver Spring Dr. and turn right into the alley just past
+          Starbucks. There is a 2-hour surface parking lot and a 10-hour parking structure. There is an entrance on the North side of the building, just left of the parking garage ramp. There is also an
+          entrance on the South side of the building along Silver Spring Dr., marked with a large Fox Bay Building sign
           above the door. Take the stairs or elevator to the 2nd floor and follow to the left to the end.
-          Lakeview Counseling is at the end of the hall in suite 231.</p>
+          Lakeview Counseling is at the end of the hall on the right, Suite 231.</p>
         </div>
-        <p class="mt-8 text-lg text-gray-500">From Metered Street Parking On Silver Spring Dr</p>
+        <p class="mt-8 text-lg text-gray-500">Metered Street Parking On Silver Spring Dr</p>
         <div class="prose prose-indigo mt-5 text-gray-500">
           <p>Metered parking is available on E. Silver Spring Dr. Take the stairs or elevator to the 2nd
-          floor and follow to the left to the end. Lakeview Counseling is at the end of the hall in
+          floor and follow to the left to the end of the hallway. Lakeview Counseling is at the end of the hall on the right,
           Suite 231.</p>
         </div>
       </div>

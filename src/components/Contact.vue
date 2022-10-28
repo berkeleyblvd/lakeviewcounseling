@@ -62,7 +62,7 @@
               <p>316 E. Silver Spring Drive</p>
               <p>Suite 231</p>
               <p>Whitefish Bay, WI 53217</p>
-              <p><router-link to="/insurance" class="font-medium text-gray-500 underline"> Parking & Directions </router-link></p>
+              <router-link to="/insurance" class="font-medium text-gray-500 underline">Parking & Directions</router-link>
             </div>
 
           </div>

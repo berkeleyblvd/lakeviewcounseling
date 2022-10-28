@@ -21,7 +21,7 @@
             <p class="relative z-20 block mt-4 text-xl">Located in Whitefish Bay, WI.<br>
              I
             started Lakeview Counseling to provide
-            a warm, welcoming, and non-judgemental space that allows one to quickly
+            a warm, welcoming, and non-judgemental space that allows you to quickly
             feel comfortable and safe to process and discuss difficult
             topics.</p>
             <div class="flex mt-4">
